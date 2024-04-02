@@ -47,7 +47,7 @@ Final Thoughts:
 This outline is a starting point, and specific choices will depend on your location, the cost of labor and materials in your area, and your personal preferences. Working closely with your architect and contractor, you can refine these ideas to fit within your $1,000,000 budget while creating your dream home.
 
 <br>
+</details>
 
 ***
-
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
