@@ -55,7 +55,7 @@ This outline is a starting point, and specific choices will depend on your locat
 
 #
 
-> "*I would love to leave this property where I currently live, permanently.*"
+> Alex: "*I would love to leave this property where I currently live, permanently.*"
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
