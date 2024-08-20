@@ -1,5 +1,9 @@
 ![Architectural Design](https://github.com/sourceduty/Building_Plan/assets/123030236/d1326523-0b91-4fd8-91de-1f9fa57d7824)
 
+> Assistive step-by-step architectural building planner.
+
+#
+
 [Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan) was developed to help architects plan and guide through architectural construction projects, focusing particularly on the selection and purchasing of materials. The goal is to assist in finding the best value for the budget, ensuring that the materials chosen are not only cost-effective but also suitable for specific project needs, whether for gaming setups, professional workspaces, or general use structures. Comparisons and advice on different brands and models will be offered to help make informed decisions. While troubleshooting after the project is assembled won't be handled, the aim is to ensure individuals are well-prepared and knowledgeable about their choices during the planning and assembly phases, always keeping safety, compatibility, and best practices in mind.
 
 <details><summary>Building a House for Under $1,000,000 USD</summary>
@@ -48,6 +52,10 @@ This outline is a starting point, and specific choices will depend on your locat
 
 <br>
 </details>
+
+#
+
+> "*I would love to leave this property where I currently live, permanently.*"
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
