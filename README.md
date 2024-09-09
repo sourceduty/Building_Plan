@@ -54,8 +54,9 @@ This outline is a starting point, and specific choices will depend on your locat
 </details>
 
 #
+### Related Links
 
-> Alex: "*I would love to leave this property where I currently live, permanently.*"
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
