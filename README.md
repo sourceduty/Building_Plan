@@ -63,6 +63,8 @@ This outline is a starting point, and specific choices will depend on your locat
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[House Design](https://github.com/sourceduty/House_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
