@@ -56,6 +56,10 @@ This outline is a starting point, and specific choices will depend on your locat
 </details>
 
 #
+
+![Buildings](https://github.com/user-attachments/assets/f43e2841-1bf7-4c26-97cf-ef208f461e06)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
