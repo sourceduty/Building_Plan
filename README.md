@@ -1,4 +1,4 @@
-![Architectural Design](https://github.com/sourceduty/Building_Plan/assets/123030236/d1326523-0b91-4fd8-91de-1f9fa57d7824)
+![Modern House Penthouse](https://github.com/user-attachments/assets/abe7dd63-81d8-4b37-b25e-7cd3d34a75d8)
 
 > Assistive step-by-step architectural building planner.
 
