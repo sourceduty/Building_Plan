@@ -65,6 +65,10 @@ This outline is a starting point, and specific choices will depend on your locat
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [House Design](https://github.com/sourceduty/House_Design)
+<br>
+[Port Perry](https://github.com/sourceduty/Port_Perry)
+<br>
+[Structural Design](https://github.com/sourceduty/Structural_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
